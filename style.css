@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+p {
+    text-align: center;
+}
+ul {
+    margin: 0;
+    padding: 0px;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid violet;
+    margin: 0;
+}
